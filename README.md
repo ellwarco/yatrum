@@ -71,6 +71,9 @@ __[Subscribe to this course here](https://upscri.be/a00eaf/)__
 $ git clone https://github.com/aviabird/yatrum.git
 $ cd yatrum
 ```
+rm -rf node_modules
+yarn install or yarn
+npm start or yarn start
 
 ##### Install npm dependencies
 ```
